@@ -1,1 +1,0 @@
-/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc -O3 -DNDEBUG CMakeFiles/wrjpgcom.dir/wrjpgcom.c.o -o wrjpgcom.js

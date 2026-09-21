@@ -1,1 +1,0 @@
-/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc -O3 -DNDEBUG "CMakeFiles/jpegtran-static.dir/jpegtran.c.o" "CMakeFiles/jpegtran-static.dir/cdjpeg.c.o" "CMakeFiles/jpegtran-static.dir/rdswitch.c.o" "CMakeFiles/jpegtran-static.dir/transupp.c.o" -o jpegtran-static.js  libjpeg.a

@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/cmake_install.cmake",
-		"/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/md5/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

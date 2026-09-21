@@ -1,1 +1,0 @@
-/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc -O3 -DNDEBUG CMakeFiles/strtest.dir/strtest.c.o -o strtest.js
