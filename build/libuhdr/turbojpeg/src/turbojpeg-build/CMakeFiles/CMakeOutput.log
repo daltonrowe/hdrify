@@ -1,0 +1,32 @@
+Determining size of size_t passed with the following output:
+Change Dir: '/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_5ff3b/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5ff3b.dir/build.make CMakeFiles/cmTC_5ff3b.dir/build
+Building C object CMakeFiles/cmTC_5ff3b.dir/SIZE_T.c.o
+/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc    -MD -MT CMakeFiles/cmTC_5ff3b.dir/SIZE_T.c.o -MF CMakeFiles/cmTC_5ff3b.dir/SIZE_T.c.o.d -o CMakeFiles/cmTC_5ff3b.dir/SIZE_T.c.o -c /Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/CMakeFiles/CheckTypeSize/SIZE_T.c
+Linking C executable cmTC_5ff3b.js
+/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5ff3b.dir/link.txt --verbose=1
+cache:INFO: generating system asset: sysroot/lib/wasm32-emscripten/crt1.o... (this will be cached in "/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/cache/sysroot/lib/wasm32-emscripten/crt1.o" for subsequent builds)
+system_libs:INFO: compiled 1 inputs in 0.13s
+cache:INFO:  - ok
+cache:INFO: generating system library: sysroot/lib/wasm32-emscripten/libstandalonewasm-nocatch.a... (this will be cached in "/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/cache/sysroot/lib/wasm32-emscripten/libstandalonewasm-nocatch.a" for subsequent builds)
+system_libs:INFO: compiled 15 inputs in 0.39s
+cache:INFO:  - ok
+/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc CMakeFiles/cmTC_5ff3b.dir/SIZE_T.c.o -o cmTC_5ff3b.js  --oformat=wasm -sWASM=1
+
+
+
+Determining size of unsigned long passed with the following output:
+Change Dir: '/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_62e86/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_62e86.dir/build.make CMakeFiles/cmTC_62e86.dir/build
+Building C object CMakeFiles/cmTC_62e86.dir/UNSIGNED_LONG.c.o
+/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc    -MD -MT CMakeFiles/cmTC_62e86.dir/UNSIGNED_LONG.c.o -MF CMakeFiles/cmTC_62e86.dir/UNSIGNED_LONG.c.o.d -o CMakeFiles/cmTC_62e86.dir/UNSIGNED_LONG.c.o -c /Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-build/CMakeFiles/CheckTypeSize/UNSIGNED_LONG.c
+Linking C executable cmTC_62e86.js
+/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62e86.dir/link.txt --verbose=1
+/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc CMakeFiles/cmTC_62e86.dir/UNSIGNED_LONG.c.o -o cmTC_62e86.js  --oformat=wasm -sWASM=1
+
+
+

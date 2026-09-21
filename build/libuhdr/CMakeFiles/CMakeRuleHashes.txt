@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+0b9fe3a2c12c4551a20ab71901b7e2fc CMakeFiles/turbojpeg
+597d23ae745d2f0bb923c76aab135537 CMakeFiles/turbojpeg-complete
+b5e87e89c919897c3e33c44a612abf8d turbojpeg/src/turbojpeg-stamp/turbojpeg-build
+258d24111dec54f9df4570ef85cb24d5 turbojpeg/src/turbojpeg-stamp/turbojpeg-configure
+4ca4248d0481f0f27e0c473f458cf5e0 turbojpeg/src/turbojpeg-stamp/turbojpeg-download
+d5578e729c4022b66820cf084c195a42 turbojpeg/src/turbojpeg-stamp/turbojpeg-install
+4f3297117566f6f6384035c76c0311b6 turbojpeg/src/turbojpeg-stamp/turbojpeg-mkdir
+aba1175763e622ee882a4e3d1b69f8f0 turbojpeg/src/turbojpeg-stamp/turbojpeg-patch
+d5e7298bcce7d2cad94109ad00c73dd5 turbojpeg/src/turbojpeg-stamp/turbojpeg-update

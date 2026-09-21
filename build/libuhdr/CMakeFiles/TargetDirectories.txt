@@ -1,0 +1,6 @@
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/turbojpeg.dir
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/image_io.dir
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/core.dir
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/uhdr.dir
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/edit_cache.dir
+/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/rebuild_cache.dir

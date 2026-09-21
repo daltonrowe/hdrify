@@ -1,0 +1,1 @@
+cmd='emcmake;cmake;/Users/dalton/Sites/sandbox/uhdr/vendor/libultrahdr/third_party/turbojpeg;-DENABLE_SHARED=0;-DWITH_SIMD=0'

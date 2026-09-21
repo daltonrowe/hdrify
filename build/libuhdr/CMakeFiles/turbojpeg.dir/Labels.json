@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/turbojpeg"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/turbojpeg.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/CMakeFiles/turbojpeg-complete.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-build.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-configure.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-download.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-install.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-mkdir.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-patch.rule"
+		},
+		{
+			"file" : "/Users/dalton/Sites/sandbox/uhdr/web/build/libuhdr/turbojpeg/src/turbojpeg-stamp/turbojpeg-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"turbojpeg"
+		],
+		"name" : "turbojpeg"
+	}
+}

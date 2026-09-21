@@ -1,0 +1,11 @@
+/* Web-only tweaks layered over app/renderer/style.css */
+
+/* no macOS traffic lights to clear, and nothing to drag the window by */
+.titlebar {
+  -webkit-app-region: no-drag;
+  padding-left: 14px;
+}
+
+.local-note {
+  font-size: 11px;
+}

@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/emscripten/6.0.9_1/libexec/emcc -O3 -DNDEBUG "CMakeFiles/tjunittest-static.dir/tjunittest.c.o" "CMakeFiles/tjunittest-static.dir/tjutil.c.o" "CMakeFiles/tjunittest-static.dir/md5/md5.c.o" "CMakeFiles/tjunittest-static.dir/md5/md5hl.c.o" -o tjunittest-static.js  libturbojpeg.a
